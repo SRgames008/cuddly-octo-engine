@@ -1,0 +1,21 @@
+/*create a javascript site dedicated to denmark*/
+
+var denmark = {
+    name: "Denmark",
+    capital: "Copenhagen",
+    population: 5.7,
+    language: "Danish",
+    flag: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+    currency: "Danish Krone",
+    currency_code: "DKK",
+    currency_symbol: "kr",
+    currency_exchange: 6.6,
+    currency_exchange_symbol: "kr",
+    currency_exchange_code: "DKK",
+    currency_exchange_rate: 0.15,
+    currency_exchange_rate_symbol: "$",
+    currency_exchange_rate_code: "USD",
+    currency_exchange_rate_date: "2019-03-01",
+    currency_exchange_rate_time: "16:00:00 UTC-05:00",
+    currency_exchange_rate_ask: 0.15,
+    currency_exchange_rate_bid: 0.15,
